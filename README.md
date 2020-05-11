@@ -4,6 +4,6 @@ A simple, CLI hangman game written in ruby. Currently only supports play in linu
 
 ### Goals
 
--[ ] Easy/Medium/Hard settings
--[ ] Move ascii art into code instead of text files
--[ ] Support Windows
+- [ ] Easy/Medium/Hard settings
+- [ ] Move ascii art into code instead of text files
+- [ ] Support Windows
